@@ -20,6 +20,7 @@ A lightweight, terminal-based peer-to-peer chat application in C, built using BS
 
 ```
 .
+├── Images          # Folder containing Example Session image
 ├── peer1.c         # Listens on port 8080, connects to 127.0.0.1:8081
 ├── peer2.c         # Listens on port 8081, connects to 127.0.0.1:8080
 └── README.md       # (You are here!)
