@@ -1,8 +1,8 @@
 # 🤝 P2P_CHAT_APP
 
-[![C/C++](https://img.shields.io/badge/language-C/C++-blue.svg)](https://isocpp.org/)
+[![C/C++](https://img.shields.io/badge/language-C-blue.svg)](https://isocpp.org/)
 
-A lightweight, terminal-based peer-to-peer chat application in C/C++, built using BSD sockets and `select()` for multiplexed I/O. No central server required—each peer can act as client or server, automatically negotiating connection roles.
+A lightweight, terminal-based peer-to-peer chat application in C, built using BSD sockets and `select()` for multiplexed I/O. No central server required—each peer can act as client or server, automatically negotiating connection roles.
 
 ---
 
