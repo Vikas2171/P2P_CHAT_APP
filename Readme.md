@@ -94,20 +94,8 @@ A lightweight, terminal-based peer-to-peer chat application in C, built using BS
 
 ## 🌟 Example Session
 
-```text
-Peer1 ▶ Waiting for peer connection...
-Peer2 ▶ Connected to peer...
-
-Peer1 ▶ From peer: Hello there!
-Peer1 ▶ Hi! How are you?
-Peer2 ▶ From peer: Hi! How are you?
-Peer2 ▶ I'm great—testing P2P chat!
-Peer1 ▶ From peer: I'm great—testing P2P chat!
-Peer1 ▶ exit
-Peer1 ▶ Exiting chat...
-Peer2 ▶ From peer: exit
-Peer2 ▶ Exiting chat...
-```
+<!-- adding image -->
+![Session](https://github.com/Vikas2171/P2P_CHAT_APP/tree/main/Images/image.png "Example Session")
 
 ---
 
